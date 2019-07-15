@@ -20,7 +20,9 @@ fullPage.js 是一个基于 jQuery 的插件，它能够很方便、很轻松的
 ##### 四、效果图
 
 ![效果图1](https://github.com/HeMin0919/cart/blob/master/images/xg1.gif)
+
 ![效果图2](https://github.com/HeMin0919/cart/blob/master/images/xg2.gif)
 
 ![效果图3](https://github.com/HeMin0919/cart/blob/master/images/xg3.gif)
+
 ![效果图4](https://github.com/HeMin0919/cart/blob/master/images/xg4.gif)
