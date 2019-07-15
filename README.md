@@ -18,11 +18,14 @@
 fullPage.js 是一个基于 jQuery 的插件，它能够很方便、很轻松的制作出全屏网站，主要功能有支持鼠标滚动、支持前进后退和键盘控制多个回调函数、支持手机平板触摸事件、支持 CSS3 动画、支持窗口缩放、窗口缩放时自动调整、可设置滚动宽度、背景颜色、滚动速度、循环选项、回调、文本对齐方式等等。兼容 jQuery 1.7+，兼容IE8+。
 
 ##### 四、效果图
-
+效果图1：
 ![效果图1](https://github.com/HeMin0919/cart/blob/master/images/xg1.gif)
 
+效果图2：
 ![效果图2](https://github.com/HeMin0919/cart/blob/master/images/xg2.gif)
 
+效果图3：
 ![效果图3](https://github.com/HeMin0919/cart/blob/master/images/xg3.gif)
 
+效果图4：
 ![效果图4](https://github.com/HeMin0919/cart/blob/master/images/xg4.gif)
